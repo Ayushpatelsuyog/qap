@@ -1,0 +1,5 @@
+{
+  "name": "Technical Document Extractor",
+  "description": "Upload a PDF and extract technical inspection and testing requirements into a Markdown table using Gemini.",
+  "requestFramePermissions": []
+}
